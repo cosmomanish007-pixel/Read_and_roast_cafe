@@ -1,0 +1,6 @@
+{
+  "name": "Read and Roast Cafe",
+  "description": "Premium vegetarian book-and-board-game themed café near Sanjivani College, Kopargaon. Fresh wood-fired pizzas, curated library of 200+ books, and classic strategic tabletop games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
